@@ -1,16 +1,14 @@
-metadata:
-  id: ajeetraina/labspace-restaurant-builder-Build-Your-Restaurant-Website-Labspace
-  sourceRepo: github.com/ajeetraina/labspace-restaurant-builder-Build-Your-Restaurant-Website-Labspace
-  contentVersion: abcd123 # Will be filled in during CI
-
-title: Labspace starter
-description: |
-  A basic template for creating a Labspace, including all of the boilerplate needed to write and publish a Labspace.
-
-sections:
-  - title: Introduction
-    contentPath: .labspace/01-introduction.md
-  - title: Main Content 1
-    contentPath: .labspace/02-main-content.md
-  - title: Conclusion
-    contentPath: .labspace/03-conclusion.md
+title: "Build Your Restaurant Website"
+description: "Build a real restaurant website using AI and containers. No coding experience needed!"
+difficulty: 1
+tags:
+  - beginner
+  - web-development
+  - ai
+  - vibe-coding
+  - nextjs
+estimated_time: 90 minutes
+authors:
+  - name: "Ajeet Singh Raina"
+    github: "ajeetraina"
+version: "1.0.0"
